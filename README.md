@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @23amaurya
 - 👀 I’m interested in quantum computing
 - 🌱 I’m currently learning qiskit
-- 💞️ I’m looking to collaborate on post cryptography
+- 💞️ I’m looking to collaborate on post quantum cryptography
 - 📫 How to reach me 23amaurya@gmail.com
 
 <!---
